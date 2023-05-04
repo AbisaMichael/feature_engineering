@@ -8,9 +8,9 @@ Feature engineering involves several steps, including:
 
         1. Data cleaning: This involves removing missing values, outliers, and irrelevant data.
 
-        2. Feature selection: This involves selecting the most important features for the model. This can be done using statistical methods, domain knowledge, or machine                           learning algorithms.
+        2. Feature selection: This involves selecting the most important features for the model. This can be done using statistical methods, domain knowledge, or machine learning algorithms.
 
-        3. Feature transformation: This involves transforming the features into a format that can be used by the machine learning algorithm. This can include scaling,                                normalization, encoding, and other techniques.
+        3. Feature transformation: This involves transforming the features into a format that can be used by the machine learning algorithm. This can include scaling,  normalization, encoding, and other techniques.
 
         4. Feature creation: This involves creating new features from the existing data. This can be done using domain knowledge or machine learning algorithms.
 
